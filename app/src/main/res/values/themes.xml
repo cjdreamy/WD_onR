@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.Ladder" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">#17352D</item>
+        <item name="android:statusBarColor">#17352D</item>
+        <item name="android:navigationBarColor">#17352D</item>
+    </style>
+</resources>
